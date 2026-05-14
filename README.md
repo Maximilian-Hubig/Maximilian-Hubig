@@ -16,6 +16,7 @@ Mein Fokus liegt auf der Schnittstelle von **Prompt Engineering und AI Safety**:
 - 🔍 **Jailbreak Analysis** – systematische Untersuchung von Sicherheitsmechanismen
 - 📊 **Comparative LLM Safety Evaluation** – Modelle unter identischen Bedingungen vergleichen
 - 📝 **Responsible Disclosure** – Findings dokumentiert, ohne funktionale Exploits zu veröffentlichen
+- 📝 **Translation & Proofreading** – Texte und Dokumente Übersetzen, und das auf kultureller ebene und nicht Wort für Wort
 
 ---
 
